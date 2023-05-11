@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85842377337",
+    "project_id": "satvik-rn",
+    "storage_bucket": "satvik-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85842377337:android:c469cab2bb3d98d195f2a8",
+        "android_client_info": {
+          "package_name": "com.rnfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85842377337-pi5do10q2441upg44g3m6fd33aif4f24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7H-9my5vdUaYTK4LHQnucoaDcQo7YG6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85842377337-cn72j99epja39un5k0kqn7iurn1da8g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
